@@ -1,3 +1,14 @@
+/*
+GRAPHICS PROCESSING USING PROCESS SCHEDULING WITH RESOURCE ALLOCATION
+
+The primary objective is to implement a scheduling system that integrates priority based resource allocation in process scheduling for graphics processing. The objective includes: 
+1.	Process scheduling: The program aims to simulate a process scheduler that manages multiple processes, each with specific resource requirements.
+2.	Dynamic Resource Allocation: The scheduler ensures that processes are allocated with necessary resources such as memory and I/O units for execution and prevents deadlock to improve system performance.
+3.	Concurrency: The program uses multithreading to handle the scheduling of processes concurrently. 
+4.	Synchronization: The program uses synchronization mechanisms to manage the waiting and retrying of processes when resources are insufficient. 
+5.	Process prioritization: The scheduler likely prioritizes processes based on certain criteria to determine the order of execution.
+6.	Simulation: The program simulates the behaviour of an operating system’s process scheduler. providing insights into how processes are managed and scheduled in a real-world scenario.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
