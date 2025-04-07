@@ -1,5 +1,5 @@
 /*
-GRAPHICS PROCESSING USING PROCESS SCHEDULING WITH RESOURCE ALLOCATION
+GRAPHICS PROCESSING SIMULATION USING PROCESS SCHEDULING WITH RESOURCE ALLOCATION
 
 The primary objective is to implement a scheduling system that integrates priority based resource allocation in process scheduling for graphics processing. The objective includes: 
 1.	Process scheduling: The program aims to simulate a process scheduler that manages multiple processes, each with specific resource requirements.
