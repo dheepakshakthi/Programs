@@ -3,7 +3,5 @@
 run the app.py program
 <br><br> 
   
-![image](https://github.com/user-attachments/assets/cfcd236f-45c2-4900-ae5b-f94fb22138a3)
-
-![image](https://github.com/user-attachments/assets/1d93be4e-0d20-4722-a246-90e185e8db79)
+![{2A9F3401-68D9-4C48-9077-DA2C3C5EDD6D}](https://github.com/user-attachments/assets/019ded97-e554-4347-829c-0a5055cb1b99)
 
