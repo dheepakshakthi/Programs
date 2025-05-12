@@ -1,3 +1,8 @@
+'''
+the complexity of the model is low and due to this, the predicted class is inaccurate 
+the model's convolution layers can be increased, alterning the kernel's size & stride and the number of nodes per convolution layer can be decreased 
+this can help to increase the dept of the model
+'''
 import torch 
 import torch.nn as nn
 import torch.nn.functional as F
