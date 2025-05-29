@@ -1,5 +1,5 @@
-# Image_Classification 
-<h3>Image classification program using Mask-R-CNN</h3>
+# Object_Detection 
+<h3>Image Detection program using Mask-R-CNN</h3>
 run the app.py program
 <br><br> 
   
