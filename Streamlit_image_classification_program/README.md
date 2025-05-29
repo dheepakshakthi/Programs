@@ -1,5 +1,5 @@
 # Object_Detection 
-<h3>Image Detection program using Mask-R-CNN</h3>
+<h3>Object Detection program using Mask-R-CNN and Streamlit frontend</h3>
 run the app.py program
 <br><br> 
   
