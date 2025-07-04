@@ -1,1 +1,1 @@
-<h2>CNN models built using python framework for image classification</h2>
+<h2>CNN models built using pytorch framework for image classification</h2>
